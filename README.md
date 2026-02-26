@@ -6,4 +6,4 @@
 ## 📌 About the Project
 This repository contains the software and hardware architecture for an autonomous vehicle that can be directed using Natural Language Processing (NLP) commands. The project integrates embedded systems, real-time control mechanisms, and AI-based language models to achieve seamless human-machine interaction.
 
-👥 *I am acknowledged as Contributor 1 for this project, listed at the bottom of the page. [Detailed Project README](./capstoneproject-suno-grup-13/README.md).* ```
+👥 *I am acknowledged as Contributor 1 for this project, listed at the bottom of the page. [Detailed Project README](./capstoneproject-suno-grup-13/README.md).* 
